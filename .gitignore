@@ -19,3 +19,7 @@
 
 # Go workspace file
 go.work
+h1.100mb.csv
+.gitignore
+k6
+html
